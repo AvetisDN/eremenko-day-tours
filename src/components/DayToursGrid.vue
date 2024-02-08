@@ -27,7 +27,7 @@
       <img src="/images/4.png" alt="" />
       <div class="overlay">
         <h4>4 Day</h4>
-        <p>Pakistan Monument, Lok Virsa & Margalla Hills of Islamabad Tour</p>
+        <p>Pakistan Monument, Lok Virsa & Margalla Hills of Islamabad Tour s</p>
       </div>
     </div>
   </div>
